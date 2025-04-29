@@ -1,0 +1,11 @@
+# Ignorer les dépendances
+node_modules/
+
+# Ignorer le dossier de production
+build/
+
+# Fichiers systèmes
+.DS_Store
+
+# Environnements ou secrets
+.env
